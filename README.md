@@ -8,6 +8,6 @@
 ***BYE***
   ~~BYE~~
 
--HI
--HELLO
-  -FUN
+- HI
+- HELLO
+  - FUN
